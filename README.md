@@ -81,3 +81,13 @@ This is a learning model rather than an official xPoints model.
 - Correlation shows association, not causation.
 - Shots-on-target difference treats all shots on target equally and does not account for chance quality, shot location, goalkeeper performance or other match circumstances.
 - The expected-points measure is a simple portfolio model and should not be interpreted as official xG or xPoints data.
+
+## Repository Files
+
+- [Power BI project file](Premier_League_2024_25_Performance_Analysis.pbix) — interactive report for use in Power BI Desktop
+- [Exported report](Premier_League_2024_25_Performance_Analysis.pdf) — static three-page PDF version
+- [Project journal](project-journal.pdf) — project decisions, validation checks and learning notes
+- [Source dataset](season-2425.csv) — original match-level data
+- `executive-overview.png` — Executive Overview screenshot
+- `performance-analysis.png` — Performance Analysis screenshot
+- `overperformance-analysis.png` — Overperformance Analysis screenshot
