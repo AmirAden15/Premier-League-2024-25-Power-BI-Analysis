@@ -91,3 +91,10 @@ This is a learning model rather than an official xPoints model.
 - `executive-overview.png` — Executive Overview screenshot
 - `performance-analysis.png` — Performance Analysis screenshot
 - `overperformance-analysis.png` — Overperformance Analysis screenshot
+
+
+## Data Source
+
+Match data came from the [English Premier League dataset on DataHub](https://datahub.io/football/english-premier-league), originally sourced from Football-Data.co.uk.
+
+The analysis uses the `season-2425.csv` file covering all 380 Premier League matches in 2024/25. The dataset is available under the Open Data Commons Public Domain Dedication and License.
