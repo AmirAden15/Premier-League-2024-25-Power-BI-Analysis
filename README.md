@@ -18,3 +18,9 @@ A Power BI portfolio project investigating which performance factors were most s
 This page explores shot volume, scoring efficiency, attacking and defensive balance, and the relationship between key performance factors and league points.
 
 ![Performance Analysis](performance-analysis.png)
+
+## Overperformance Analysis
+
+This page compares each team’s actual points with the points expected from its shots-on-target difference. Positive values indicate teams that exceeded the shot-based expectation, while negative values indicate teams that finished below it.
+
+![Overperformance Analysis](overperformance-analysis.png)
