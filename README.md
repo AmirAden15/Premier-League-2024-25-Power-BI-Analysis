@@ -12,3 +12,9 @@ A Power BI portfolio project investigating which performance factors were most s
 - Which teams combined strong attacking output with strong defensive performance?
 - How did shot volume and shooting efficiency differ across teams?
 - Which teams earned more or fewer points than expected from their shots-on-target difference?
+
+## Performance Analysis
+
+This page explores shot volume, scoring efficiency, attacking and defensive balance, and the relationship between key performance factors and league points.
+
+![Performance Analysis](performance-analysis.png)
