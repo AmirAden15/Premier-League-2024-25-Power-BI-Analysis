@@ -63,3 +63,13 @@ I fitted a simple linear relationship between shots-on-target difference and tot
 **Points above/below expected = actual points − shot-based expected points**
 
 This is a learning model rather than an official xPoints model.
+
+
+## Key Findings
+
+- Goals conceded had the strongest relationship with league points (`r = -0.91`). Teams generally earned fewer points as they conceded more goals.
+- Goals scored also had a strong relationship with points (`r = 0.89`), followed by total shots (`r = 0.83`).
+- Liverpool finished first with 84 points and led the league in both home points (46) and away points (38).
+- Brentford recorded the highest shot-conversion rate at 14.97%.
+- Nottingham Forest finished 15.36 points above the shot-based expectation.
+- Manchester United finished 16.32 points below the shot-based expectation.
