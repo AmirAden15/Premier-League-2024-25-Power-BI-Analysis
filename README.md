@@ -39,3 +39,14 @@ I validated the transformation by confirming that:
 - The dataset contained 380 distinct matches.
 - Calculated points matched the final league table.
 - No required columns contained errors or missing values.
+
+
+## Tools and Techniques
+
+- Power BI Desktop
+- Power Query for cleaning, reshaping and appending data
+- DAX measures for league results, shooting metrics and expected-points estimates
+- Pearson correlation analysis
+- Simple linear regression
+- Data validation and report interaction testing
+- Dashboard design and page navigation
