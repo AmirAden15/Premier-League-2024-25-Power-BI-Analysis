@@ -98,3 +98,7 @@ This is a learning model rather than an official xPoints model.
 Match data came from the [English Premier League dataset on DataHub](https://datahub.io/football/english-premier-league), originally sourced from Football-Data.co.uk.
 
 The analysis uses the `season-2425.csv` file covering all 380 Premier League matches in 2024/25. The dataset is available under the Open Data Commons Public Domain Dedication and License.
+
+## AI Assistance
+
+ChatGPT was used as a learning aid for step-by-step guidance, troubleshooting and reviewing explanations. I implemented and validated the data transformations, measures, visuals and interpretations in Power BI.
