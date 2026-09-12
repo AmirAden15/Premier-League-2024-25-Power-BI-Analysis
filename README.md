@@ -50,3 +50,16 @@ I validated the transformation by confirming that:
 - Simple linear regression
 - Data validation and report interaction testing
 - Dashboard design and page navigation
+
+
+## Overperformance Method
+
+Because the dataset did not include expected-goals or expected-points data, I used shots-on-target difference as a transparent proxy for underlying performance.
+
+**Shots-on-target difference = shots on target created − shots on target allowed**
+
+I fitted a simple linear relationship between shots-on-target difference and total points across the 20 teams. A team’s overperformance or underperformance was then calculated as:
+
+**Points above/below expected = actual points − shot-based expected points**
+
+This is a learning model rather than an official xPoints model.
