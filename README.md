@@ -73,3 +73,11 @@ This is a learning model rather than an official xPoints model.
 - Brentford recorded the highest shot-conversion rate at 14.97%.
 - Nottingham Forest finished 15.36 points above the shot-based expectation.
 - Manchester United finished 16.32 points below the shot-based expectation.
+
+
+## Limitations
+
+- The analysis covers one season and only 20 teams, so the relationships may not remain the same across other seasons.
+- Correlation shows association, not causation.
+- Shots-on-target difference treats all shots on target equally and does not account for chance quality, shot location, goalkeeper performance or other match circumstances.
+- The expected-points measure is a simple portfolio model and should not be interpreted as official xG or xPoints data.
